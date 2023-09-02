@@ -70,7 +70,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #151515;
+	background: #FFFFFF;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -450,7 +450,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #151515;
+	background: #FFFFFF;
 	z-index: 800;
 	height: 100%;
 	width: 100%;
@@ -645,7 +645,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/background.jpg) no-repeat center bottom;
+	background: #FFFFFF url(../images/background.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1009,7 +1009,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #151515;
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
@@ -1020,7 +1020,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 #contact .section-intro p {
-	color: rgba(255, 255, 255, 0.7);
+	color: #FFFFFF;
 }
 
 /* contact form */
