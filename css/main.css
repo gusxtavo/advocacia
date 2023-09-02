@@ -90,7 +90,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #888888;
+	color: #ffffff;
 	outline: 0;
 }
 
@@ -156,7 +156,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: #ffffff;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -309,7 +309,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #888888;
+	color: #ffffff;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -529,7 +529,7 @@ img.pull-left {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #888888;
+	color: #ffffff;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -849,7 +849,7 @@ header .logo a {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #888888;
+	color: #ffffff;
 }
 
 #resume .resume-timeline {
@@ -905,7 +905,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #ffffff;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1014,7 +1014,7 @@ header .logo a {
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {
-	color: white;
+	color: #FFFFFF;
 }
 #contact .section-intro h5 {
 	color: #FFFFFF;
@@ -1069,7 +1069,7 @@ header .logo a {
 	letter-spacing: .1rem;
 	padding: 0 2rem;
 	margin: 0;
-	color: #888888;
+	color: #FFFFFF;
 	background: #FFFFFF;
 }
 #contact form .form-field label::after {
@@ -1136,10 +1136,10 @@ header .logo a {
 	width: 100%;
 }
 #message-warning {
-	color: #fa0003;
+	color: #FFFFFF;
 }
 #message-success {
-	color: #888888;
+	color: #FFFFFF;
 }
 #message-warning i, #message-success i {
 	margin-right: 10px;
